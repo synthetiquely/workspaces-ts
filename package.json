@@ -1,0 +1,7 @@
+{
+  "name": "rym",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}
